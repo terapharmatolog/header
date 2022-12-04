@@ -157,6 +157,9 @@ aside {
 .basket p:first-child {
   color: #65a526;
 }
+.green{
+  color:#65a526;
+}
 .basket p span {
   font-weight: 400;
   font-size: 18px;
