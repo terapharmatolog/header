@@ -139,7 +139,7 @@ aside {
 }
 .nav li {
   margin-left: 12px;
-  font-weight: 500;
+
 }
 .basket {
   display: flex;
@@ -172,5 +172,5 @@ aside {
   justify-content: end;
   gap: 14px;
   font-size: 18px;
-  font-weight: 700;
+  
 }
