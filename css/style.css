@@ -1,5 +1,5 @@
-@import url("css/nullification.css");
-@import url("css/base.css");
+@import url("../css/nullification.css");
+@import url("../css/base.css");
 
 .header {
   display: flex;
